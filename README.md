@@ -1,6 +1,4 @@
-# Import cryptocurrency to Neo4j
-
-## Bitcoin
+# Import Bitcoin to Neo4j
 
 ```bash
     1. find Bitcoin block hash from https://www.blockchain.com/explorer
