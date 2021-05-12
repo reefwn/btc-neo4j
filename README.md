@@ -2,7 +2,7 @@
 
 > 1. find Bitcoin block_hash from https://www.blockchain.com/explorer
 
-![explorer](https://github.com/reefwn/btc-neo4j/blob/main/explorer.png?raw=true)
+![explorer](https://github.com/reefwn/btc-neo4j/blob/main/explore.png?raw=true)
 
 > 2. go to https://blockchain.info/rawblock/<block_hash> and save it as json file
 
